@@ -97,5 +97,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn kaggle
   ```
 
 ---
-
-Do you want me to also **add a sample section with exact Python code snippets** (like how to run prediction with a new patient’s data), or keep it only as text instructions?
